@@ -19,18 +19,18 @@ export default function About() {
             <h2 className="text-3xl font-bold mb-6 text-black">Big Dreams</h2>
             <p className="text-gray-600 leading-7 mb-6">
               Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
+              industry. Lorem Ipsum has been the industrys standard dummy text
               ever since the 1500s
               Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
+              industry. Lorem Ipsum has been the industrys standard dummy text
               ever since the 1500s
               Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
+              industry. Lorem Ipsum has been the industrys standard dummy text
               ever since the 1500s
             </p>
             <p className="text-gray-600 leading-7">
               Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
+              industry. Lorem Ipsum has been the industrys standard dummy text
               ever since the 1500s...
             </p>
           </div>
